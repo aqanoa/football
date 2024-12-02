@@ -16,4 +16,4 @@ RUN cd /gfootball && python3 -m pip install .
 WORKDIR '/gfootball'
 
 # Hier wurde jetzt ein Fix eingefügt.
-# 2. Fix Docker
+# 2. Fix und Feature dockerfile
