@@ -1,3 +1,5 @@
 Datei1
 
 Hier ist dann der Inhalt der Datei 1.
+Ändern für das stash-Beispiel
+Ändern für das stash-Beispiel2
