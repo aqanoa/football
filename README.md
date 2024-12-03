@@ -18,6 +18,7 @@ Useful links:
 
 
 We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
+Thank you!
 
 
 ## Quick Start
